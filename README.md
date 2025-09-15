@@ -87,19 +87,21 @@ Tema yang digunakan adalah **Manajemen Transfer Pemain Sepak Bola**, di mana pen
 
 ## 💻 Contoh Output
 ### Tambah Transfer
-![Tambah Transfer](https://github.com/user-attachments/assets/3b1a0a64-41cc-4d46-aace-fa2ba1abcd83)
+<img width="335" height="182" alt="image" src="https://github.com/user-attachments/assets/99739755-d3fd-4aed-9c91-51cec2671fed" />
 
 ### Lihat Transfer
-![Lihat Transfer](https://github.com/user-attachments/assets/c55ab3aa-08a5-44f3-938d-45f3a37e1bd9)
-
-### Cari Transfer
-![Cari Transfer](https://github.com/user-attachments/assets/83220a53-cb68-45ee-8e77-fae25d0efaa2)
-
-### Hapus Transfer
-![Hapus Transfer](https://github.com/user-attachments/assets/f561b49f-1974-471c-ac46-1b3ba135713b)
+<img width="560" height="138" alt="image" src="https://github.com/user-attachments/assets/6c18dde6-a148-4362-8e53-9c7784d3eb29" />
 
 ### Update Transfer
-![Update Transfer](https://github.com/user-attachments/assets/008bdc92-25a9-4617-93a8-80197c9d7996)
+<img width="565" height="257" alt="image" src="https://github.com/user-attachments/assets/79543817-0e6a-4cf5-8d09-2ae57b4a39e5" />
+<img width="565" height="102" alt="image" src="https://github.com/user-attachments/assets/47562e9d-fe04-4180-9b48-dc2789c04778" />
+
+### Cari Transfer
+<img width="662" height="92" alt="image" src="https://github.com/user-attachments/assets/b340fa75-a013-43ca-838c-964d94b65b96" />
+
+### Hapus Transfer
+<img width="567" height="173" alt="image" src="https://github.com/user-attachments/assets/2220bcde-05b2-44a4-bc87-f220f729322d" />
+<img width="565" height="123" alt="image" src="https://github.com/user-attachments/assets/68ced232-bb2f-4755-baa7-6d45eb4a7dbf" />
 
 ---
 
