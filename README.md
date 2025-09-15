@@ -1,23 +1,49 @@
+# ⚽ Post Test 2 - PBO  
+## Manajemen Transfer Pemain Sepak Bola  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![CRUD](https://img.shields.io/badge/CRUD-Create%20Read%20Update%20Delete-blue?style=for-the-badge)  
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-green?style=for-the-badge)  
+![MVC](https://img.shields.io/badge/MVC-Model%20View%20Controller-orange?style=for-the-badge)  
 
 ---
 
-## 💻 Contoh Output
-### Tambah Transfer
-![Tambah Transfer](https://github.com/user-attachments/assets/3b1a0a64-41cc-4d46-aace-fa2ba1abcd83)
-
-### Lihat Transfer
-![Lihat Transfer](https://github.com/user-attachments/assets/c55ab3aa-08a5-44f3-938d-45f3a37e1bd9)
-
-### Cari Transfer
-![Cari Transfer](https://github.com/user-attachments/assets/83220a53-cb68-45ee-8e77-fae25d0efaa2)
-
-### Hapus Transfer
-![Hapus Transfer](https://github.com/user-attachments/assets/f561b49f-1974-471c-ac46-1b3ba135713b)
-
-### Update Transfer
-![Update Transfer](https://github.com/user-attachments/assets/008bdc92-25a9-4617-93a8-80197c9d7996)
+## 👤 Data Diri
+- **Nama** : Husaini Iyastama H.  
+- **NIM** : 2409116038  
+- **Kelas** : A  
 
 ---
 
-## 🏁 Penutup
-Dengan program ini, manajemen transfer pemain sepak bola dapat dilakukan dengan mudah melalui operasi CRUD berbasis **Java OOP**. 🚀  
+## 📖 Deskripsi Singkat
+Program ini adalah implementasi **CRUD (Create, Read, Update, Delete)** menggunakan bahasa pemrograman **Java**.  
+
+Tema yang digunakan adalah **Manajemen Transfer Pemain Sepak Bola**, di mana pengguna dapat:
+- ➕ Menambahkan data transfer pemain  
+- 📋 Melihat daftar transfer  
+- ✏️ Memperbarui data transfer  
+- ❌ Menghapus data transfer  
+- 🔎 Mencari data pemain berdasarkan nama  
+
+### ✨ Fitur yang diterapkan
+- **ArrayList** untuk menyimpan data pemain.  
+- **Packages** untuk memisahkan fungsi program:  
+  - `main` → entry point & menu utama.  
+  - `model` → struktur data pemain/transfer.  
+  - `service` → logika CRUD & fitur pencarian.  
+- **Minimal 3 class** (`MainApp`, `Transfer`, `TransferService`).  
+- **Constructor** pada class `Transfer`.  
+- **Access modifier** (`private`, `public`).  
+- **Validasi input angka** agar tidak error.  
+- **Fitur search** untuk mencari pemain berdasarkan nama.  
+
+### 🏗️ Pola MVC
+- **Model (`model.Transfer`)** → Menyimpan struktur data pemain (nama, asal tim, klub tujuan, biaya transfer).  
+- **Controller (`service.TransferService`)** → Menangani logika CRUD, validasi input, serta fitur pencarian.  
+- **View (`main.MainApp`)** → Entry point program, menampilkan menu, menerima input, dan memanggil method dari `TransferService`.  
+
+---
+
+## 🛠️ Alur Program
+### Saat dijalankan, program menampilkan menu utama:
+
