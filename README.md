@@ -42,3 +42,8 @@ Program ini adalah pengembangan dari Post Test 1 dengan menerapkan:
 ## 🖼️ Contoh Output  
 
 ### Tambah Data
+<img width="465" height="272" alt="image" src="https://github.com/user-attachments/assets/149fa55c-848f-4200-ad47-adb688bf29b7" />
+
+### Lihat Data
+
+
